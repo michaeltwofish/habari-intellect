@@ -1,0 +1,7 @@
+section#blog article { position:relative; background-color:#fff; }
+section#blog article.unique h2.article-title, section#blog article.unique dt { text-align:right; }
+section#blog article.unique dt.post-summary { width:auto; }
+section#blog article.unique dd.post-preview { height:auto; position:relative; right:0; top:0; }
+
+.sidebar-block { background-color:#dee2ad; }
+.sidebar-block footer { background-color:#cdd19c; }

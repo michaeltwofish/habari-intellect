@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<name>Intellect</name>
+	<author>David Yeiser</author>
+	<url>http://designintellection.com/</url>
+	<version>1.0</version>
+	<template_engine>rawphpengine</template_engine>
+	<description>A clean, minimalist theme exclusively for Habari based on a design I had for my site from October to December of 2009.</description>
+</theme>
