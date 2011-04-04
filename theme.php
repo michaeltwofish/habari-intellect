@@ -1,5 +1,4 @@
 <?php
-define ('THEME_CLASS', 'ReIntellect');
 
 class ReIntellect extends Theme
 {

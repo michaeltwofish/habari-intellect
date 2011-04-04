@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<theme>
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="theme">
 	<name>Intellect</name>
-	<author>David Yeiser</author>
-	<url>http://designintellection.com/</url>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://designintellection.com/">David Yeiser</author>
 	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+  <description><![CDATA[A clean, minimalist theme exclusively for Habari based on a design I had for my site from October to December of 2009.]]></description>
 	<template_engine>rawphpengine</template_engine>
-	<description>A clean, minimalist theme exclusively for Habari based on a design I had for my site from October to December of 2009.</description>
-</theme>
+	<copyright>2011</copyright>
+</pluggable>
